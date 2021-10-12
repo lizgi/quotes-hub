@@ -1,8 +1,8 @@
 .theform{
-    background: rgba(1, 28, 36, 0.993);
-    text-align: center;
-    width: 400px;
-    height: 500px;
+    background: rgba(146, 153, 153, 0.993);
+    text-align: left;
+    width: 300px;
+    height: 400px;
 }
 form{
     width: 80%;

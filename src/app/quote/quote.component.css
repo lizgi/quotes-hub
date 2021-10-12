@@ -2,9 +2,5 @@
     background: rgba(32, 165, 165, 0.993);
 }
 .box h1{
-    font-weight: bolder;
-}
-.foot{
-    font-weight: bolder;
-    font-size: xx-large;
+    font-weight: lighter;
 }

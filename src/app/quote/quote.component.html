@@ -16,7 +16,7 @@
         <div class="row" *ngFor='let quote of quotes; let i = index'>
           <div class="container">
             <h4 id="{{i}}" appHighlight>{{quote.description}} </h4>
-            <button class="ml-5 btn-secondary border border-secondary" (click)='toogleDetails(i)'> Quote Details </button>
+            <button class="ml-5 btn-primary border border-primary" (click)='toogleDetails(i)'> Quote Details </button>
           </div>
           <div class="container">
             <div class="row" *ngIf="quote.showDescription">
@@ -29,7 +29,5 @@
     </div>
   </div>
 </div>
- <div class="text-center text-light foot ">
-  &copy;2021 LIZZY QUOTES”
- </div>
+
 </div>
