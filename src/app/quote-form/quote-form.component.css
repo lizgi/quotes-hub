@@ -1,0 +1,10 @@
+.theform{
+    background: rgba(1, 28, 36, 0.993);
+    text-align: center;
+    width: 400px;
+    height: 500px;
+}
+form{
+    width: 80%;
+    margin: auto;
+}
