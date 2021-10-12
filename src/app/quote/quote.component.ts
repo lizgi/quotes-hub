@@ -8,11 +8,11 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes = [
-    new Quote(1, 'Robbin Mwangi Githimbo', 'Marie Curie', '“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”', new Date(2021, 8, 14)),
-    new Quote(2, 'Robbin Mwangi Githimbo', 'John Lennon', '“Life is what happens while you are busy making other plans.”', new Date(2021, 7, 16)),
-    new Quote(3, 'Robbin Mwangi Githimbo', 'Buddha', '“Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.”', new Date(2021, 8, 30)),
-    new Quote(4, 'Robbin Mwangi Githimbo', 'Albert Einstein', '“Life is like riding a bicycle. To keep your balance, you must keep moving.”', new Date(1986, 8, 30)),
-    new Quote(5, 'Robbin Mwangi Githimbo', 'Margaret Thatcher', '“If you want something said, ask a man; if you want something done, ask a woman.”', new Date(1986, 8, 30)),
+    new Quote(1, 'LIZ BUSH', 'HENRY FORD', '“Failure is the opportunity to begin again more intelligently.”', new Date(2021, 8, 14)),
+    new Quote(2, 'ZIPPY SHII', 'JOHANN WOLFGANG', '“Believe in yourself and all that you are.Know there is something inside you that is greater than any obstacle.”', new Date(2021, 7, 16)),
+    new Quote(3, 'LIZ BUSH', 'JOHN WOODEN', '“knowing is not enough,we must apply.Wishing is not enough,we must do.”', new Date(2021, 8, 30)),
+    new Quote(4, 'ZIPPY SHII', 'Albert Einstein', '“Life is like riding a bicycle. To keep your balance, you must keep moving.”', new Date(1986, 8, 30)),
+    new Quote(5, 'LIZ BUSH', 'CHINESE', '“Do not let what you cannot do interfere with what you can do.”', new Date(1986, 8, 30)),
   ];
 
 
