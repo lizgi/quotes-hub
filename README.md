@@ -1,14 +1,10 @@
-# Quotes
+# Motivational Quotes
 
-![Best-Quotes!](./src/assets/webpage.png)
-
-# Brainy Quotes
-
-An application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational
+An application where users can create quotes,vote them and also delete.
 
 ## Author
 
-Robbin Mwangi
+Elizabeth Nyambura
 
 ## Description and Requirements
 
@@ -50,17 +46,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ### Live Site
-
-Go to  [live] ( https://robbingit.github.io/Best-Quotes/ ) site.
-
-### Support
-For support reach me via Email (robbingithimbo@gmail.com)
-
-Phone number 0704408124
-
-### Licence
-This project is under the  [MIT](LICENSE) licence:<br>
-
-Copyright (c) 2021 Robbin Mwangi Githimbo. 
+### license
 
 
