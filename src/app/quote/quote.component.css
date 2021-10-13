@@ -1,5 +1,6 @@
 .box{
     background: rgba(32, 56, 165, 0.993);
+    border-radius:20px 40px;
 }
 .box h1{
     font-weight: lighter;

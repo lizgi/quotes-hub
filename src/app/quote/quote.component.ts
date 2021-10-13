@@ -11,7 +11,6 @@ export class QuoteComponent implements OnInit {
     new Quote(1, 'LIZ BUSH', 'HENRY FORD', '“Failure is the opportunity to begin again more intelligently.”', new Date(2021, 7, 14)),
     new Quote(2, 'ZIPPY SHII', 'JOHANN WOLFGANG', '“Believe in yourself and all that you are.Know there is something inside you that is greater than any obstacle.”', new Date(2021, 7, 9)),
     new Quote(3, 'LIZ BUSH', 'JOHN WOODEN', '“knowing is not enough,we must apply.Wishing is not enough,we must do.”', new Date(2021, 8, 10)),
-    new Quote(4, 'ZIPPY SHII', 'Albert Einstein', '“Life is like riding a bicycle. To keep your balance, you must keep moving.”', new Date(1986, 6, 30)),
     new Quote(5, 'LIZ BUSH', 'CHINESE', '“Do not let what you cannot do interfere with what you can do.”', new Date(1986, 8, 20)),
   ];
 
